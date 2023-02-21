@@ -1,0 +1,35 @@
+{
+    "title":"National Geographic Channel",
+    "image":"https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/11/0005.jpg?fit=1920%2C1080&ssl=1",
+    "alt":"National Geographic Image",
+    "image_width":"100vw",
+    "image_height":"75vh",
+    "subheading":"Here are our animals:",
+    "animals":[
+        {
+            "species":"leopard",
+            "name":"Cynthia",
+            "sex":"female",
+            "image":"https://media.gettyimages.com/id/160869327/photo/leopard-chobe-national-park-botswana.jpg?s=612x612&w=gi&k=20&c=-aigBDO0Y6J-c7D-CqX4PHgdUIpFL5sXQ3Hy4q2nOKQ="
+
+        },
+        {
+            "species":"lion",
+            "name":"Tom",
+            "sex":"male",
+            "image":"https://i.natgeofe.com/n/487a0d69-8202-406f-a6a0-939ed3704693/african-lion.JPG"
+        },
+        {
+            "species":"elephant",
+            "name":"Sally",
+            "sex":"female",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/640px-African_Bush_Elephant.jpg"
+        },
+        {
+            "species":"hyena",
+            "name":"Cruella",
+            "sex":"female",
+            "image":"https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/VPS_rsy3MaML32HNm52jPVutXPY=/768x432/filters:quality(80)/arc-goldfish-cmg-thumbnails.s3.amazonaws.com/10-31-2022/t_e3d42d395e4d4f7387434c1322684ae4_name_Hyenas_What_you_need_to_know_635fb3ea0161ed3da3909a13_1_Oct_31_2022_11_51_15_poster.jpg"
+        }
+    ]
+}
