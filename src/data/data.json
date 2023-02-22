@@ -4,7 +4,7 @@
     "alt":"National Geographic Image",
     "image_width":"100vw",
     "image_height":"75vh",
-    "subheading":"Here are our animals:",
+    "subheading":"",
     "animals":[
         {
             "id":1,
