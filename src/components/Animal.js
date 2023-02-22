@@ -1,4 +1,4 @@
-function Animal({animalData:{id,name,species,sex,image}}){
+function Animal({animalData:{name,species,sex,image}}){
     return(
         <div className="animal-div">
             <h1>
