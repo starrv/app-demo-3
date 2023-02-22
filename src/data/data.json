@@ -1,12 +1,13 @@
 {
     "title":"National Geographic Channel",
-    "image":"https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/11/0005.jpg?fit=1920%2C1080&ssl=1",
+    "image":"https://i.natgeofe.com/k/e7ba8001-23ac-457f-aedb-abd5f2fdda62/moms5_4x3.png",
     "alt":"National Geographic Image",
     "image_width":"100vw",
     "image_height":"75vh",
     "subheading":"Here are our animals:",
     "animals":[
         {
+            "id":1,
             "species":"leopard",
             "name":"Cynthia",
             "sex":"female",
@@ -14,18 +15,21 @@
 
         },
         {
+            "id":2,
             "species":"lion",
             "name":"Tom",
             "sex":"male",
             "image":"https://i.natgeofe.com/n/487a0d69-8202-406f-a6a0-939ed3704693/african-lion.JPG"
         },
         {
+            "id":3,
             "species":"elephant",
             "name":"Sally",
             "sex":"female",
             "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/640px-African_Bush_Elephant.jpg"
         },
         {
+            "id":4,
             "species":"hyena",
             "name":"Cruella",
             "sex":"female",
