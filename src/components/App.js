@@ -1,8 +1,8 @@
 import '../css/App.css';
 import data from "../data/data";
+console.log(data);
 
 function App() {
-  console.log(data);
   return (
     <div className="App">
       <header className="App-header">
