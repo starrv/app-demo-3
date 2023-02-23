@@ -66,3 +66,8 @@ body{
   height:50%;
   border-radius: 5px;
 }
+
+select{
+  padding:1rem;
+  margin:1rem;
+}

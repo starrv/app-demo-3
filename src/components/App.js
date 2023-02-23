@@ -1,8 +1,7 @@
 import '../css/App.css';
 import data from "../data/data";
 import AnimalList from "./AnimalList";
-import Animal from "./Animal";
-
+import SelectAnimal from "./SelectAnimal";
 
 console.log(data);
 
@@ -18,6 +17,7 @@ function App() {
         {data.subheading?<h2>{data.subheading}</h2>: undefined}
       </header>
       {subheading}
+      <SelectAnimal />
       <AnimalList animals={data.animals} />
     </div>
   );
